@@ -1,0 +1,7 @@
+C:\Users\sqayn\OneDrive\Belgeler\GitHub\basic-twitch-api-client\basic-twitch-api-client\bin\Debug\basic-twitch-api-client.exe.config
+C:\Users\sqayn\OneDrive\Belgeler\GitHub\basic-twitch-api-client\basic-twitch-api-client\bin\Debug\basic-twitch-api-client.exe
+C:\Users\sqayn\OneDrive\Belgeler\GitHub\basic-twitch-api-client\basic-twitch-api-client\bin\Debug\basic-twitch-api-client.pdb
+C:\Users\sqayn\OneDrive\Belgeler\GitHub\basic-twitch-api-client\basic-twitch-api-client\obj\Debug\basic-twitch-api-client.csprojAssemblyReference.cache
+C:\Users\sqayn\OneDrive\Belgeler\GitHub\basic-twitch-api-client\basic-twitch-api-client\obj\Debug\basic-twitch-api-client.csproj.CoreCompileInputs.cache
+C:\Users\sqayn\OneDrive\Belgeler\GitHub\basic-twitch-api-client\basic-twitch-api-client\obj\Debug\basic-twitch-api-client.exe
+C:\Users\sqayn\OneDrive\Belgeler\GitHub\basic-twitch-api-client\basic-twitch-api-client\obj\Debug\basic-twitch-api-client.pdb
